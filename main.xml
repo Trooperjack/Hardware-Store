@@ -73,7 +73,7 @@
 		<sequence_manager path="units/custom/pd2_mod_hardwareStore/mcm_prop_bathroom_toilet/mcm_prop_bathroom_toilet"/>
 		<unit path="units/custom/pd2_mod_hardwareStore/mcm_prop_bathroom_toilet/mcm_prop_bathroom_toilet"/>
 	</AddFiles>
-	<AssetUpdates id="tj002hs" is_standalone="false" provider="payday2concepts" use_local_dir="true" version="1.5"/>
+	<AssetUpdates id="tj002hs" is_standalone="false" provider="payday2concepts" use_local_dir="true" version="1.6"/>
 	<Dependencies>
 		<Dependency id="pd2mcore" min_ver="0.8" name="PD2MapsCore" provider="payday2concepts" type="mod_overrides"/>
 	</Dependencies>
